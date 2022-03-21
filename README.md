@@ -3,8 +3,12 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaffu0424&show_icons=true&theme=radical) [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kaffu)](https://solved.ac/kaffu)
 
-# SKILL
+# I'm learning.
 ![Python](http://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
+![HTML5](http://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
+![Python](http://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
+![Python](http://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
+
 
 ### beginner...
 
