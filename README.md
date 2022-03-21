@@ -8,6 +8,6 @@
 ### none
 
 # :mailbox_with_mail: Contacts
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://github.com/kaffu0424/)](https://github.com/kaffu0424/)
-[![Gmail Badge](http://img.shields.io/badge/Gmail-d14836??style=flat-square&logo=Gmail&logoColor=white&link=mailto:vvbbnbv@gmail.com/)](mailto:vvbbnbv@gmail.com/)
-[![Naver Badge](http://img.shields.io.badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:kaffu@naver.com/)](mailto:kaffu@naver.com/)
+[![Tech Blog Badge](https://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://github.com/kaffu0424/)](https://github.com/kaffu0424/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836??style=flat-square&logo=Gmail&logoColor=white&link=mailto:vvbbnbv@gmail.com/)](mailto:vvbbnbv@gmail.com/)
+[![Naver Badge](https://img.shields.io.badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:kaffu@naver.com/)](mailto:kaffu@naver.com/)
