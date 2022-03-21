@@ -4,8 +4,9 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaffu0424&show_icons=true&theme=radical) [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kaffu)](https://solved.ac/kaffu)
 
 # SKILL
+![Python](http://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 
-### none
+### beginner...
 
 # :mailbox_with_mail: Contacts
 [![Tech Blog Badge](https://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://github.com/kaffu0424/)](https://github.com/kaffu0424/)
