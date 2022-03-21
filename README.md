@@ -1,4 +1,4 @@
-# 꾸미는중
+# GITHUB
 
 <a href="https://www.youtube.com/channel/UCOnEOfNK4le1__Uij7JE9GA" target="_blank"><img src="https://img.shields.io/badge/test?style=뱃지모양&logo=#FF0000&logoColor=#FF0000"/></a>
 
