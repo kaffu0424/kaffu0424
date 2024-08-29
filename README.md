@@ -9,7 +9,9 @@
 #### 👍 PlatForm & Language
 <img src="https://img.shields.io/badge/UNITY-3C5280?style=flat-square&logo=Unity&logoColor=white"/> <img src="https://img.shields.io/badge/C%23-00599C?style=flat-square&logo=c-sharp&logoColor=white"/>
 #### 👍 Skills
-<img src="https://img.shields.io/badge/FSM-9146FF?style=flat-square&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Map Generate-9146FF?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/OOP-9146FF?style=flat-square&logoColor=white"/> 
+<img src="https://img.shields.io/badge/UI-9146FF?style=flat-square&logoColor=white"/> 
 
 #### 👉 ECT
 Repository  : [The Binding of Issac Repository](https://github.com/IGC-The-Binding-Of-Issac)
@@ -27,8 +29,6 @@ PPT         : [Google Docs](https://docs.google.com/presentation/d/1i3ZaaJ573T6M
 #### 👍 PlatForm & Language
 <img src="https://img.shields.io/badge/UNITY-3C5280?style=flat-square&logo=Unity&logoColor=white"/> <img src="https://img.shields.io/badge/C%23-00599C?style=flat-square&logo=c-sharp&logoColor=white"/>
 #### 👍 Skills
-<img src="https://img.shields.io/badge/RAYCAST-F46D01?style=flat-square"/> <img src="https://img.shields.io/badge/Object Pooling-18BFFF?style=flat-square"/>
-<img src="https://img.shields.io/badge/Map Generate-FF4F8B?style=flat-square"/> <img src="https://img.shields.io/badge/Optimization-FDEE21?style=flat-square"/> 
 
 #### 👉 ECT
 Repository  : [Space Mayhem Repository](https://github.com/Newbie-Appealer/Space-Mayhem)
