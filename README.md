@@ -36,10 +36,8 @@ Viedo       : [Youtube](https://youtu.be/AnYdyji6FxM?si=5NJ4vNIoWBMEvAJh)
 
 PPT         : [Google Docs](https://docs.google.com/presentation/d/1mru2w6e5_sYrYJNinHomeGzJKDLzcbZB/edit#slide=id.p1)
 </br>
-<hr>
 
 <hr>
-
 ### 2️⃣ Dungeon Warfare 모작
 : Dungeon Warfare 모작 프로젝트 입니다.
 
