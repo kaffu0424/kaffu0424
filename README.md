@@ -12,9 +12,9 @@
 <img src="https://img.shields.io/badge/FSM-9146FF?style=flat-square&logoColor=white"/> 
 
 #### 👉 ECT
-Repository  : https://github.com/IGC-The-Binding-Of-Issac
+Repository  : [The Binding of Issac Repository](https://github.com/IGC-The-Binding-Of-Issac)
 
-Viedo       : [Youtube](ttps://www.youtube.com/watch?v=0n2EI_Dh5ko)
+Viedo       : [Youtube](https://www.youtube.com/watch?v=0n2EI_Dh5ko)
 
 PPT         : [Google Docs](https://docs.google.com/presentation/d/1i3ZaaJ573T6M0k1iqAfXqhrbNu8Uze4F/edit?rtpof=true&sd=true)
 </br>
