@@ -9,9 +9,7 @@
 #### 👍 PlatForm & Language
 <img src="https://img.shields.io/badge/UNITY-3C5280?style=flat-square&logo=Unity&logoColor=white"/> <img src="https://img.shields.io/badge/C%23-00599C?style=flat-square&logo=c-sharp&logoColor=white"/>
 #### 👍 Skills
-<img src="https://img.shields.io/badge/Map Generate-9146FF?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/OOP-9146FF?style=flat-square&logoColor=white"/> 
-<img src="https://img.shields.io/badge/UI-9146FF?style=flat-square&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Map Generate-9146FF?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/UI-9146FF?style=flat-square&logoColor=white"/> 
 
 #### 👉 ECT
 Repository  : [The Binding of Issac Repository](https://github.com/IGC-The-Binding-Of-Issac)
@@ -29,6 +27,7 @@ PPT         : [Google Docs](https://docs.google.com/presentation/d/1i3ZaaJ573T6M
 #### 👍 PlatForm & Language
 <img src="https://img.shields.io/badge/UNITY-3C5280?style=flat-square&logo=Unity&logoColor=white"/> <img src="https://img.shields.io/badge/C%23-00599C?style=flat-square&logo=c-sharp&logoColor=white"/>
 #### 👍 Skills
+<img src="https://img.shields.io/badge/FSM-9146FF?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/Inventory-9146FF?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/Item-9146FF?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/Crafting-9146FF?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/MariaDB-9146FF?style=flat-square&logoColor=white"/> 
 
 #### 👉 ECT
 Repository  : [Space Mayhem Repository](https://github.com/Newbie-Appealer/Space-Mayhem)
@@ -47,7 +46,7 @@ PPT         : [Google Docs](https://docs.google.com/presentation/d/1mru2w6e5_sYr
 #### 👍 PlatForm & Language
 <img src="https://img.shields.io/badge/UNITY-3C5280?style=flat-square&logo=Unity&logoColor=white"/> <img src="https://img.shields.io/badge/C%23-00599C?style=flat-square&logo=c-sharp&logoColor=white"/>
 #### 👍 Skills
-
+<img src="https://img.shields.io/badge/FSM-9146FF?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/A*-9146FF?style=flat-square&logoColor=white"/>
 
 #### 👉 ECT
 Repository  : [Dungeon Warefare Repository](https://github.com/kaffu0424/DungeonWarfare)
