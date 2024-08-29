@@ -14,10 +14,11 @@
 #### 👉 ECT
 Repository  : https://github.com/IGC-The-Binding-Of-Issac
 
-Viedo       : https://www.youtube.com/watch?v=0n2EI_Dh5ko
+Viedo       : [Youtube](ttps://www.youtube.com/watch?v=0n2EI_Dh5ko)
 
-PPT         : https://docs.google.com/presentation/d/1i3ZaaJ573T6M0k1iqAfXqhrbNu8Uze4F/edit?rtpof=true&sd=true
+PPT         : [Google Docs](https://docs.google.com/presentation/d/1i3ZaaJ573T6M0k1iqAfXqhrbNu8Uze4F/edit?rtpof=true&sd=true)
 </br>
+
 <hr>
 
 ### 2️⃣ Space-Mayhem
@@ -30,11 +31,28 @@ PPT         : https://docs.google.com/presentation/d/1i3ZaaJ573T6M0k1iqAfXqhrbNu
 <img src="https://img.shields.io/badge/Map Generate-FF4F8B?style=flat-square"/> <img src="https://img.shields.io/badge/Optimization-FDEE21?style=flat-square"/> 
 
 #### 👉 ECT
-Repository  : https://github.com/Newbie-Appealer/Space-Mayhem
+Repository  : [Space Mayhem Repository](https://github.com/Newbie-Appealer/Space-Mayhem)
 
-Viedo       : [https://www.youtube.com/watch?v=aq9Y19iT0CA](https://youtu.be/AnYdyji6FxM?si=5NJ4vNIoWBMEvAJh)
+Viedo       : [Youtube](https://youtu.be/AnYdyji6FxM?si=5NJ4vNIoWBMEvAJh)
 
-PPT         : https://docs.google.com/presentation/d/1mru2w6e5_sYrYJNinHomeGzJKDLzcbZB/edit#slide=id.p1
+PPT         : [Google Docs](https://docs.google.com/presentation/d/1mru2w6e5_sYrYJNinHomeGzJKDLzcbZB/edit#slide=id.p1)
+</br>
+<hr>
+
+<hr>
+
+### 2️⃣ Dungeon Warfare 모작
+: Dungeon Warfare 모작 프로젝트 입니다.
+
+#### 👍 PlatForm & Language
+<img src="https://img.shields.io/badge/UNITY-3C5280?style=flat-square&logo=Unity&logoColor=white"/> <img src="https://img.shields.io/badge/C%23-00599C?style=flat-square&logo=c-sharp&logoColor=white"/>
+#### 👍 Skills
+
+
+#### 👉 ECT
+Repository  : [Dungeon Warefare Repository](https://github.com/kaffu0424/DungeonWarfare)
+
+Viedo       : [Youtube](https://www.youtube.com/watch?v=UGb589c2sPg)
 </br>
 <hr>
 
