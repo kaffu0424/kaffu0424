@@ -22,6 +22,9 @@ PPT         : [Google Docs](https://docs.google.com/presentation/d/1mru2w6e5_sYr
 ### 2️⃣ 스파르타 내일배움캠프
 : 스파르타 내일배움캠프 개인/팀 프로젝트 레포지토리입니다.
 팀프로젝트 TEXT RPG    : [17조 레포지토리 fork](https://github.com/kaffu0424/TeamRPG_17)
+</br>
+
+<hr>
 
 ### 3️⃣ The Binding of Issac 모작 
 : The Binding of Isscac 모작 프로젝트 입니다.
