@@ -19,7 +19,11 @@ PPT         : [Google Docs](https://docs.google.com/presentation/d/1mru2w6e5_sYr
 
 <hr>
 
-### 2️⃣ The Binding of Issac 모작 
+### 2️⃣ 스파르타 내일배움캠프
+: 스파르타 내일배움캠프 개인/팀 프로젝트 레포지토리입니다.
+팀프로젝트 TEXT RPG    : [17조 레포지토리 fork](https://github.com/kaffu0424/TeamRPG_17)
+
+### 3️⃣ The Binding of Issac 모작 
 : The Binding of Isscac 모작 프로젝트 입니다.
 미니프로젝트 수업 과제
 팀 구성 : 개발 4
@@ -37,7 +41,7 @@ PPT         : [Google Docs](https://docs.google.com/presentation/d/1i3ZaaJ573T6M
 
 <hr>
 
-### 3️⃣ Dungeon Warfare 모작
+### 4️⃣ Dungeon Warfare 모작
 : Dungeon Warfare 모작 프로젝트 입니다.
 SBS 게임아카데미 포트폴리오반 게임 모작
 팀 구성 : 개발 1
