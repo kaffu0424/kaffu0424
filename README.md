@@ -1,4 +1,6 @@
 ## 유니티 클라이언트 개발자 준비중 입니다 👋
+
+velog  : https://velog.io/@kaffu0424
 </br>
 
 ### 1️⃣ Space-Mayhem
@@ -21,7 +23,9 @@ PPT         : [Google Docs](https://docs.google.com/presentation/d/1mru2w6e5_sYr
 
 ### 2️⃣ 스파르타 내일배움캠프
 : 스파르타 내일배움캠프 개인/팀 프로젝트 레포지토리입니다.
-팀프로젝트 TEXT RPG    : [17조 레포지토리 fork](https://github.com/kaffu0424/TeamRPG_17)
+ - C# 심화 주차 - 팀프로젝트 TEXT RPG <br>
+[17조 Repository](https://github.com/kaffu0424/TeamRPG_17)<br>
+[velog](https://velog.io/@kaffu0424/내배캠-팀프로젝트-마무리-TEXT-RPG)
 </br>
 
 <hr>
