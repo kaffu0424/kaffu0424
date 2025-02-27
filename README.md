@@ -27,6 +27,8 @@ PPT         : [Google Docs](https://docs.google.com/presentation/d/1mru2w6e5_sYr
 [17조 Repository](https://github.com/kaffu0424/TeamRPG_17)<br>
 [velog](https://velog.io/@kaffu0424/내배캠-팀프로젝트-마무리-TEXT-RPG)
 </br>
+- 유니티 게임 개발 입문 주차 - 팀 프로젝트 궁수의 전설 <br>
+[2조 Repository](https://github.com/SpartaTeam2/Sparta_Team2)<br>
 
 <hr>
 
