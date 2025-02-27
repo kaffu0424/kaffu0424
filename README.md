@@ -22,13 +22,18 @@ PPT         : [Google Docs](https://docs.google.com/presentation/d/1mru2w6e5_sYr
 <hr>
 
 ### 2️⃣ 스파르타 내일배움캠프
-: 스파르타 내일배움캠프 개인/팀 프로젝트 레포지토리입니다.
+: 스파르타 내일배움캠프 팀 프로젝트 레포지토리입니다.
+
+#### 👍 PlatForm & Language
+<img src="https://img.shields.io/badge/UNITY-3C5280?style=flat-square&logo=Unity&logoColor=white"/> <img src="https://img.shields.io/badge/C%23-00599C?style=flat-square&logo=c-sharp&logoColor=white"/>
+
  - C# 심화 주차 - 팀프로젝트 TEXT RPG <br>
-[17조 Repository](https://github.com/kaffu0424/TeamRPG_17)<br>
-[velog](https://velog.io/@kaffu0424/내배캠-팀프로젝트-마무리-TEXT-RPG)
+Repository : [17조 Repository](https://github.com/kaffu0424/TeamRPG_17)<br>
+velog      : [velog](https://velog.io/@kaffu0424/내배캠-팀프로젝트-마무리-TEXT-RPG)
 </br>
-- 유니티 게임 개발 입문 주차 - 팀 프로젝트 궁수의 전설 <br>
-[2조 Repository](https://github.com/SpartaTeam2/Sparta_Team2)<br>
+
+- 유니티 게임 개발 입문 주차 - 팀 프로젝트 궁수의 전설 </br>
+Repository : [2조 Repository](https://github.com/SpartaTeam2/Sparta_Team2)
 
 <hr>
 
