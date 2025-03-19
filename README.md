@@ -29,19 +29,19 @@ PPT         : [Google Docs](https://docs.google.com/presentation/d/1mru2w6e5_sYr
 <img src="https://img.shields.io/badge/UNITY-3C5280?style=flat-square&logo=Unity&logoColor=white"/> <img src="https://img.shields.io/badge/C%23-00599C?style=flat-square&logo=c-sharp&logoColor=white"/>
 
  - C# 심화 주차 - 팀프로젝트 TEXT RPG <br>
-Repository : [17조 Repository](https://github.com/kaffu0424/TeamRPG_17)<br>
+Repository : [17조 Repository](https://github.com/kaffu0424/TeamRPG_17) <br>
 velog      : [velog](https://velog.io/@kaffu0424/내배캠-팀프로젝트-마무리-TEXT-RPG)
 
 - 유니티 게임 개발 입문 주차 - 팀 프로젝트 궁수의 전설 </br>
-Repository : [2조 Repository](https://github.com/SpartaTeam2/Sparta_Team2)
+Repository : [2조 Repository](https://github.com/SpartaTeam2/Sparta_Team2) <br>
 velog      : [velog](https://velog.io/@kaffu0424/내배캠-프로젝트-마무리-궁수의전설)
 
 - 유니티 게임 개발 숙련 주차 - 팀 프로젝트 3D 퍼즐 플랫포머 게임 <br>
-Repository : [11조 Repository](https://github.com/Sparta-Team11-Puzzle/Sparta_Puzzle)
+Repository : [11조 Repository](https://github.com/Sparta-Team11-Puzzle/Sparta_Puzzle) <br>
 velog      : [velog](https://velog.io/@kaffu0424/3D-퍼즐-플랫포머-게임-팀프로젝트-마무리)
 
-- 유니티 게임 개발 심화 주차 -
-Repository : [n조 Repository]()
+- 유니티 게임 개발 심화 주차 <br>
+Repository : [n조 Repository]() <br>
 velog      : [velog]()
 
 <hr>
