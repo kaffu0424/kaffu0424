@@ -31,7 +31,6 @@ PPT         : [Google Docs](https://docs.google.com/presentation/d/1mru2w6e5_sYr
  - C# 심화 주차 - 팀프로젝트 TEXT RPG <br>
 Repository : [17조 Repository](https://github.com/kaffu0424/TeamRPG_17)<br>
 velog      : [velog](https://velog.io/@kaffu0424/내배캠-팀프로젝트-마무리-TEXT-RPG)
-</br>
 
 - 유니티 게임 개발 입문 주차 - 팀 프로젝트 궁수의 전설 </br>
 Repository : [2조 Repository](https://github.com/SpartaTeam2/Sparta_Team2)
@@ -41,10 +40,11 @@ velog      : [velog](https://velog.io/@kaffu0424/내배캠-프로젝트-마무�
 Repository : [11조 Repository](https://github.com/Sparta-Team11-Puzzle/Sparta_Puzzle)
 velog      : [velog](https://velog.io/@kaffu0424/3D-퍼즐-플랫포머-게임-팀프로젝트-마무리)
 
-<hr>
 - 유니티 게임 개발 심화 주차 -
 Repository : [n조 Repository]()
 velog      : [velog]()
+
+<hr>
 
 ### 3️⃣ The Binding of Issac 모작 
 : The Binding of Isscac 모작 프로젝트 입니다.
