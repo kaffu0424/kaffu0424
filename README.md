@@ -44,8 +44,8 @@ velog      : [velog](https://velog.io/@kaffu0424/내배캠-프로젝트-마무�
 velog      : [velog](https://velog.io/@kaffu0424/3D-퍼즐-플랫포머-게임-팀프로젝트-마무리)
 
 - 유니티 게임 개발 심화 주차 <br>
-개인프로젝트 : [개인과제 Repository]() <br>
-팀프로젝트 : [n조 Repository]() <br>
+개인프로젝트 : [개인과제 Repository](https://github.com/kaffu0424/Sparta_Inventory) <br>
+팀프로젝트 : [n조 Repository](https://github.com/Mount-Hua-Sect/WuxiaSurvivor) <br>
 velog      : [velog]()
 
 <hr>
