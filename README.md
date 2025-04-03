@@ -13,7 +13,7 @@ velog  : https://velog.io/@kaffu0424
 <img src="https://img.shields.io/badge/UNITY-3C5280?style=flat-square&logo=Unity&logoColor=white"/> <img src="https://img.shields.io/badge/C%23-00599C?style=flat-square&logo=c-sharp&logoColor=white"/>
 
 #### 👉 ECT
-Repository  : [Space Mayhem Repository](https://github.com/Newbie-Appealer/Space-Mayhem)
+Repository  : [Organization ReadMe](https://github.com/Newbie-Appealer)  ( 저작권 이슈 )
 
 Viedo       : [Youtube](https://youtu.be/AnYdyji6FxM?si=5NJ4vNIoWBMEvAJh)
 
